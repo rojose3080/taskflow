@@ -19,3 +19,9 @@ App de gestión de tareas estilo Kanban desarrollada en **PHP**. Incluye **login
 3. Configura la base de datos (si aplica)
 4. Ejecuta desde `localhost`
 
+   
+## Roadmap
+- v1 (actual): PHP + Bootstrap
+- v2 (planificado): React + Node.js + MongoDB
+
+
