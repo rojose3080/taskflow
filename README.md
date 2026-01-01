@@ -1,6 +1,5 @@
 # TaskFlow
-🔧 TaskFlow - App de gestión de tareas con PHP + MySQL
-Sistema básico de gestión de tareas estilo Kanban.
+🔧TaskFlow: App de gestión de tareas estilo Kanban desarrollada en PHP. Incluye login, panel inicial y módulos de tablero en desarrollo.
 
 ## Tecnologías
 - PHP
