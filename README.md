@@ -17,11 +17,6 @@ App de gestión de tareas estilo Kanban desarrollada en **PHP**. Incluye **login
 1. Clona el repositorio
 2. Copia en tu servidor local (XAMPP/WAMP/Laragon)
 3. Configura la base de datos (si aplica)
-4. Ejecuta desde `localhost`
-
-   
-## Roadmap
-- v1 (actual): PHP + Bootstrap
-- v2 (planificado): React + Node.js + MongoDB
+4. Ejecuta desde `localhost
 
 
